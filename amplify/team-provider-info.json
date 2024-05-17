@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bualabus-dev-b3de7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::973771022446:role/amplify-bualabus-dev-b3de7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::973771022446:role/amplify-bualabus-dev-b3de7-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-bualabus-dev-b3de7-deployment",
+      "UnauthRoleName": "amplify-bualabus-dev-b3de7-unauthRole",
+      "StackName": "amplify-bualabus-dev-b3de7",
+      "StackId": "arn:aws:cloudformation:eu-north-1:973771022446:stack/amplify-bualabus-dev-b3de7/94b07590-14a0-11ef-9069-0ef0844c163c",
+      "AmplifyAppId": "dvnwskj48hr8g"
+    }
+  }
+}
