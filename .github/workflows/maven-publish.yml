@@ -6,7 +6,13 @@ name: Maven Package
 on: workflow_dispatch
 
 jobs:
-  build:
+  
+  
+      
+  build: 
+    defaults:
+      run:
+        working-directory: ./server
 
     runs-on: ubuntu-latest
     permissions:
